@@ -1,0 +1,19 @@
+{
+ "name": "directorist/directorist-statistics",
+ "description": "Statistics for the Directorist plugin",
+ "type": "project",
+ "license": "GLP",
+ "authors": [
+  {
+   "name": "wpWax",
+   "email": "contact@wpwax.com"
+  }
+ ],
+ "minimum-stability": "dev",
+ "require": {},
+ "autoload": {
+  "psr-4": {
+   "Inc\\": "./inc"
+  }
+ }
+}
